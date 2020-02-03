@@ -1,0 +1,24 @@
+Processing config: C:\Program Files (x86)\NSIS\nsisconf.nsh
+Processing script file: "C:\Users\Danijel\AppData\Local\Temp\nst80AB.tmp" (ACP)
+
+Processed 1 file, writing output (x86-ansi):
+warning 7998: ANSI targets are deprecated
+
+Output: "C:\Users\Danijel\Desktop\Output\Knjigovodstvo_DanijelXDA\setup.exe"
+Install: 3 pages (192 bytes), 2 sections (1 required) (4144 bytes), 425 instructions (11900 bytes), 288 strings (5557 bytes), 2 language tables (556 bytes).
+Uninstall: 3 pages (256 bytes), 1 section (2072 bytes), 360 instructions (10080 bytes), 278 strings (6023 bytes), 2 language tables (572 bytes).
+Datablock optimizer saved 2237 bytes (~0.0%).
+
+Using zlib compression.
+
+EXE header size:               51200 / 37888 bytes
+Install code:                   5216 / 20765 bytes
+Install data:               26442792 / 68012886 bytes
+Uninstall code+data:           33113 / 37434 bytes
+CRC (0x18DCC5D1):                  4 / 4 bytes
+
+Total size:                 26532325 / 68108977 bytes (38.9%)
+
+2 warnings:
+  7998: ANSI targets are deprecated
+  9000: Insecure filename "setup.exe", Windows will unsafely load compatibility shims into the process.
